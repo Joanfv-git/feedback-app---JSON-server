@@ -4,7 +4,7 @@ import FeedbackList from "./components/FeedbackList";
 import FeedbackStats from "./components/FeedbackStats";
 import FeedbackForm from "./components/FeedbackForm";
 import AboutPage from "./pages/AboutPage";
-import { FeedBackProvider, FeedbackProvider } from "./context/FeedBackContext";
+import { FeedBackProvider } from "./context/FeedBackContext";
 import AboutIconLink from "./components/AboutIconLink";
 
 
